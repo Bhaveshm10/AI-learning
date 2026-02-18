@@ -3,69 +3,61 @@
 codes of basic learning of AI and machine learning.
 <br>
 Author : BHAVESH GURJAR (PESU)
-# 🗺️ My Journey to AI Mastery
+# 🗺️ AI Mastery Roadmap: From Fundamentals to GenAI
 
-Welcome to my AI Development roadmap. This repository tracks my progress from the mathematical foundations to building Large Language Models.
+This repository serves as my living syllabus and portfolio tracker as I navigate the layers of Artificial Intelligence, Machine Learning, and MLOps.
 
----
+## 📍 Phase 1: The Core Pillars (Foundations)
+*Mastering the 'Why' and the 'How' of computation.*
 
-## 📍 The Roadmap
+### 🔢 Mathematical Fundamentals
+- **Linear Algebra:** Vectors, Matrices, Eigenvalues.
+- **Calculus:** Derivatives, Chain Rule, Gradients.
+- **Probability & Statistics:** Distributions, Bayes' Theorem.
+- **Discrete Mathematics:** Logic, Sets, Graph Theory.
 
-### 🏁 Phase 1: The Foundation
-*Status: [Completed/In Progress]*
-- 🔢 **Mathematics:** Linear Algebra, Calculus, & Probability.
-- 🐍 **Python Mastery:** OOP, Functional Programming, & Decorators.
-- 🏗️ **DSA:** Trees, Graphs, and Complexity Analysis ($O(n)$).
+### 🐍 Python Programming
+- **Core:** Syntax, Variables, Loops, Conditionals.
+- **Advanced:** Functions, Modules, and **Object-Oriented Programming (OOP)**.
+- **DSA:** - 🏗️ Linear: Arrays, Linked Lists, Stacks, Queues.
+  - 🌳 Non-Linear: Trees and Graphs.
 
+## 📊 Phase 2: Data Science & Handling
+*Turning raw data into actionable insights.*
 
+- **Preprocessing:** Cleaning, Normalization, Data Pipelines.
+- **The Toolkit:**
+  - 🐼 `Pandas` & `NumPy` (Data Manipulation)
+  - 📉 `Matplotlib` & `Seaborn` (Visualization)
+  - 👁️ `OpenCV` (Computer Vision basics)
 
----
+## 🤖 Phase 3: Machine Learning (ML)
+*Teaching machines to learn from patterns.*
 
-### 📊 Phase 2: Data Science & Wrangling
-*Status: [Current Focus]*
-- **Libraries:** `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`.
-- **Skills:** Feature Engineering, Data Cleaning, & EDA (Exploratory Data Analysis).
-- **Computer Vision:** Basics with `OpenCV`.
+- **Supervised Learning:** Regression, Classification, Decision Trees, SVM.
+- **Unsupervised Learning:** Clustering (K-Means, Hierarchical).
+- **Reinforcement Learning:** Reward-based logic and environments.
+- **Library:** `Scikit-learn`.
 
----
+## 🧠 Phase 4: Deep Learning & GenAI
+*Mimicking the human brain for complex tasks.*
 
-### 🤖 Phase 3: Machine Learning (ML)
-- **Supervised:** Linear/Logistic Regression, SVMs, Random Forests.
-- **Unsupervised:** K-Means Clustering, PCA.
-- **Reinforcement:** Q-Learning basics.
-- **Tools:** `Scikit-learn`.
+- **Neural Networks:** - **ANN** (Standard), **CNN** (Images), **RNN** (Sequences), **GANs** (Generative).
+- **Core Mechanics:** Forward Propagation & Backpropagation.
+- **Large Language Models (LLMs):** - 🔡 **NLP:** Tokenization, Embeddings, Transformers.
+  - 🎨 **GenAI:** Text, Image, and Audio generation.
 
+## 🚀 Phase 5: Implementation & Deployment
+*Moving from local scripts to production-ready apps.*
 
+- **Frameworks:** `PyTorch` (Research/Flexibility), `TensorFlow` & `Keras` (Production).
+- **Infrastructure:** - 🐳 **Docker:** Containerizing models for consistency.
+  - ☁️ **Cloud Platforms:** Deploying on AWS, Azure, or GCP.
 
----
+## 🛠️ Project Portfolio (Proof of Work)
 
-### 🧠 Phase 4: Deep Learning & GenAI
-- **Architectures:** - 🖼️ **CNNs** (Computer Vision)
-  - 🔄 **RNNs/LSTMs** (Time Series)
-  - 🎨 **GANs** (Generative Art)
-- **Concepts:** Backpropagation & Gradient Descent.
-- **LLMs:** Transformers, BERT, & GPT Architecture via `Hugging Face`.
-
----
-
-### 🚀 Phase 5: MLOps & Deployment
-- **Frameworks:** `PyTorch` (Research) & `TensorFlow` (Production).
-- **DevOps:** `Docker` containers & `GitHub Actions`.
-- **Cloud:** Deploying on `AWS/GCP`.
-
----
-
-## 🛠️ Proof of Work (Featured Projects)
-
-| Project Name | Tech Stack | Status |
-| :--- | :--- | :--- |
-| **Fake News Detector** | Python, BERT, Scikit-learn | ✅ Done |
-| **Text Summarizer** | Transformers, Hugging Face | 🏗️ Building |
-| **Art Generator** | PyTorch, GANs | 📅 Planned |
-
----
-
-## 📈 Current Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavesh01&show_icons=true&theme=radical)
-
-**"The best way to predict the future is to create it."**
+| Project | Domain | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **Sentiment Analyzer** | NLP | Python, Scikit-learn | ✅ Completed |
+| **Image Classifier** | Deep Learning | CNN, PyTorch | 🏗️ In Progress |
+| **Market Segmenter** | Unsupervised | K-Means, Pandas | 📅 Planned |
